@@ -6,6 +6,6 @@ function range(a, b) {
     return result;
   }
   
-  console.log(range(3, 8)); 
+  console.log(range(7,1)); 
   console.log(range(1, 5)); 
   
